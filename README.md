@@ -1,4 +1,4 @@
-# Modified Swin UNETR using MONAI
+# Swin UNETR to segmentation
 
 This repository contains a modified version of the `SwinUNETR` model from [MONAI](https://monai.io/), a PyTorch-based framework for deep learning in healthcare imaging. This modification was made to adapt the original Swin UNETR architecture for task-specific segmentation requirements.
 
